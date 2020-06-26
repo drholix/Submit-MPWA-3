@@ -1,0 +1,2 @@
+C:\Users\drhol>web-push generate-vapid-keys --json
+{"publicKey":"BDMQ8D66kCr4t6crI-7Jr_iM1DfmlbMy5kHQu3RlFPEOtexFkyZlENWDJtiLTS5vXFflVPGelOEf7zg1ZapxcHE","privateKey":"ScDzYpBz2XJwAg-AWB9Rr24zUqZGcaFYsLF3KciVO_A"}
